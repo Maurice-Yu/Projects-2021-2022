@@ -4,7 +4,7 @@ Project #3 outline for students
  ## Group Member #1: Maurice Yu yu000464
  - Dispatch function
  - Worker function
- - log file
+ - server logging
  - documentation
  - circular que
  ## Group Member #2: Demond Counce counc012
