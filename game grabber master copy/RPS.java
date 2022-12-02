@@ -97,7 +97,7 @@ public class RPS extends Game
     else
     {
       round+=1;
-      return move+" vs "+ai+"you lose"+"\n";
+      return move+" vs "+ai+" you lose"+"\n";
     }
     }
     else

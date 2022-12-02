@@ -50,36 +50,7 @@ public class Hangman extends Game
     this.max = max;
     this.rounds = maxguess;
   }
-  //  protected void play(Scanner user)
-  // {
-  //   System.out.println(this.prepToPlay());
-  //   while(user.hasNext())
-  //   {
-  //   System.out.print("Enter Your Move or 'quit' to quit ");
-  //   String x;
-  //   x=user.next();
-  //   if(x!="quit")
-  //     {
-  //     System.out.print(this.processMove(x));
-  //     while (!this.isValid())
-  //     {
-  //       x=user.next();
-  //       System.out.print(this.processMove(x));
-  //     }
-  //     if (this.isOver())
-  //     {
-  //       System.out.print(this.finalMessage());
-  //       break;
-  //     }
-  //     }
-    
-  //   else
-  //   {
-  //     System.out.println(this.finalMessage());
-  //   }
-
-  //   }
-  // }
+  
   protected boolean isValid(String move)
   {
     if(this.guess.equals("quit"))

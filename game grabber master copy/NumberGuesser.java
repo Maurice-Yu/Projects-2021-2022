@@ -28,36 +28,7 @@ public class NumberGuesser extends Game
     }
     return true;
   }
-  //   protected void play(Scanner user)
-  // {
-  //   System.out.println(this.prepToPlay());
-  //   while(user.hasNext())
-  //   {
-  //   System.out.print("Enter Your Move or 'quit' to quit ");
-  //   String x;
-  //   x=user.next();
-  //   if(x!="quit")
-  //     {
-  //     System.out.print(this.processMove(x));
-  //     while (!this.isValid())
-  //     {
-  //       x=user.next();
-  //       System.out.print(this.processMove(x));
-  //     }
-  //     if (this.isOver())
-  //     {
-  //       System.out.println(this.finalMessage());
-  //       break;
-  //     }
-  //     }
-    
-  //   else
-  //   {
-  //     System.out.println(this.finalMessage());
-  //   }
-
-  //   }
-  // }
+  
   protected int getsecret()
   {
     return secret;
