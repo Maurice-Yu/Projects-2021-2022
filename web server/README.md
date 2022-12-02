@@ -6,6 +6,7 @@ Project #3 outline for students
  - Worker function
  - log file
  - documentation
+ - circular que
  ## Group Member #2: Demond Counce counc012
  - Error checking
  - Dispatch thread
@@ -14,3 +15,4 @@ Project #3 outline for students
  - Cache implimentation
  - Worker thread
  - intermediate submission
+ - Error checking
