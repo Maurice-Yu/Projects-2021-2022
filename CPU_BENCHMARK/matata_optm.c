@@ -4,7 +4,7 @@
 #include <stdlib.h>
 int matata_VER1(matrix_t mat, matrix_t ans) {
   // YOUR CODE HERE// Baseline version from matata_base.c
-  short size=mat.rows;    // instead of havving to access matrows every time i put it into a size variable
+  short size=mat.rows;    // instead of having to access matrows every time i put it into a size variable
   int *holder=mat.data;  //by having a pointer to the data you dont have to access the struct takes one step off of getting the data
   int *holder2=ans.data;	
   int *x;	//used to hold a computed value speeds up so when accessing the value you just pull from x instead of computeing it every time
