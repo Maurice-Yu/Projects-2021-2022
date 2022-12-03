@@ -8,6 +8,6 @@ My first introduction to OS calls and designing data structures revolving around
 # thermal updater: spring 2022
 My first program written in ASM. Learned how hard it was code back in the day
 # matata: spring 2022
-My first introduction to cache aware programing and function abstraction using C. Function pointers were a tough one to design and impliment. Learned not to use C when possible
+My first introduction to cache aware programing and function abstraction using C. I learned how there are many optimizations beyond big O there were. Function pointers were a tough one to design and impliment. Learned not to use C when possible
 # web server: fall 2022
 My third group project and my first introduction to multithreaded programs. There is so much to keep track of when multithreading. I can understand how there can easily be bugs in webservers.
