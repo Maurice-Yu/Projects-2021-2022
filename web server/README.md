@@ -4,9 +4,9 @@ Project #3 outline for students
  ## Group Member #1: Maurice Yu yu000464
  - Dispatch function
  - Worker function
- - server logging
- - documentation
- - circular que
+ - Server logging
+ - Documentation
+ - Circular que
  ## Group Member #2: Demond Counce counc012
  - Error checking
  - Dispatch thread
@@ -14,5 +14,5 @@ Project #3 outline for students
  ## Group Member #3: Yibeltal Wattero watte094
  - Cache implimentation
  - Worker thread
- - intermediate submission
+ - Intermediate submission
  - Error checking
