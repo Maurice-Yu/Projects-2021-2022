@@ -1,6 +1,6 @@
 # Projects
 # Game Grabber:fall 2021
-My first "real program" introduced to fundamental object oriented concepts. Polished my formatting skills and realized the importance of abstraction. It was very satisfying at the end when i could actually use the final product.
+My first "real program" introduced to fundamental object oriented concepts. Polished my formatting skills and realized the importance of abstraction. It was very satisfying at the end when I could actually use the final product.
 # Huffman Code Book: fall 2021
 My first implimentation of different data structures, algorithms and big O concepts. Learned how important it is to utilize fast algorithms/data structures
 # el malloc: spring 2022
