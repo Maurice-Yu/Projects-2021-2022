@@ -11,3 +11,5 @@ My first program written in ASM. Learned how hard it was code back in the day
 My first introduction to cache aware programing and function abstraction using C. I learned how there are many optimizations beyond big O there were. Function pointers were a tough one to design and impliment. Learned not to use C when possible
 # Web Server: fall 2022
 My third group project and my first introduction to multithreaded programs. There is so much to keep track of when multithreading. I can understand how there can easily be bugs in webservers.
+# Web Browser: fall 2022
+Learned things like inter-process communication and socket programming, as well as improving my understanding of multithreaded/concurent programs.
